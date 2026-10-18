@@ -1,0 +1,6 @@
+{
+  "name": "ApexAcquire AI - Distressed Real Estate Acquisitions Platform",
+  "description": "AI-driven off-market distressed property acquisition engine: raw public record ingestion, ML motivation scoring, multi-channel outreach, automated AI seller negotiation, MAO calculation, state-specific purchase agreements, e-signature workflow, and mobile companion view.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
